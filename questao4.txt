@@ -1,0 +1,10 @@
+Para resolver esse problema, eu faria o seguinte:
+
+- Primeiro, eu ligaria um dos interruptores e o manteria ligado por alguns minutos.
+- Em seguida, eu desligaria esse interruptor e ligaria outro que estava desligado anteriormente.
+- Eu então entraria na sala onde estão as lâmpadas.
+- A lâmpada que estivesse acesa estaria conectada ao último interruptor que eu liguei.
+- A lâmpada que estivesse desligada, mas quente, estaria conectada ao primeiro interruptor que eu liguei e desliguei.
+- A lâmpada restante estaria conectada ao interruptor que eu não toquei.
+
+Dessa forma, utilizando apenas duas idas até a sala das lâmpadas, eu seria capaz de determinar qual interruptor controla cada lâmpada.
